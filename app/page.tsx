@@ -152,9 +152,34 @@ export default function AboutPage() {
 
         <div className="text-[--fg-muted] space-y-3 leading-relaxed">
           <p>
-            I like traveling, and I particularly enjoy flying on planes and
-            taking ridiculous flight itineraries. I also collecting things like
-            boarding passes and passport stamps.
+            I am a commercial flight enthusiast. I enjoy flying on plane and
+            taking unusual connecting itineraries. I treat flying as an
+            optimization problem, especially in maximizing value out of airline
+            / credit card points and designing complex itineraries that maximize
+            exploration out of a fixed budget. Last year, I took two daytrips in
+            two different Canadian cities in a single connecting itinerary when
+            traveling between the U.S. and Europe. Check out my flight map{" "}
+            <a
+              href="https://my.flightradar24.com/yiliangl"
+              className="text-accent"
+            >
+              here
+            </a>
+            !
+          </p>
+          <p>
+            I also collecting things like boarding passes and passport stamps.
+            My favorite was when I got a passport stamp when visiting{" "}
+            <a
+              href="https://en.wikipedia.org/wiki/Point_Roberts,_Washington"
+              className="text-accent"
+            >
+              Point Roberts, WA, USA
+            </a>
+            , an interesting geographic oddity and a memorable stop. I also have
+            a collection of boarding passes from my travels (and sometimes more
+            than one boarding pass per flight), which I keep as mementos of my
+            journeys.
           </p>
         </div>
       </section>
